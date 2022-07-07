@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_2404_T48_609485">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 2404</ph> - ADMINISTRATIVE MATTERS</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           42 U.S.C. 3535(d).
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2404_7_T48_6094851.dita#Subpart_2404_7_T48_6094851">Subpart 2404.7 - Contractor Records Retention</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2404_7001_T48_609485111.dita#Section_2404_7001_T48_609485111">2404.7001 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2404_8_T48_6094852.dita#Subpart_2404_8_T48_6094852">Subpart 2404.8 - Government Contract Files</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2404_805_T48_609485211.dita#Section_2404_805_T48_609485211">2404.805 Storage, handling and disposal of contract files.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

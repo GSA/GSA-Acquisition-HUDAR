@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_2453_T48_6095539">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 2453</ph> - FORMS</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           40 U.S.C. 486(c); 42 U.S.C. 3535(d).
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           53 FR 46543, Nov. 17, 1988, unless otherwise noted.
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Section_2453_000_T48_6095539011.dita#Section_2453_000_T48_6095539011">2453.000 Scope of part.</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2453_2_T48_60955391.dita#Subpart_2453_2_T48_60955391">Subpart 2453.2 - Prescription of Forms</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2453_215_T48_6095539111.dita#Section_2453_215_T48_6095539111">2453.215 Contracting by negotiation.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2453_217_T48_6095539112.dita#Section_2453_217_T48_6095539112">2453.217 Special contracting methods.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2453_217_70_T48_6095539113.dita#Section_2453_217_70_T48_6095539113">2453.217-70 Form HUD-730, Award/Modification of Interagency Agreement.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2453_227_T48_6095539114.dita#Section_2453_227_T48_6095539114">2453.227 Patents, data, and copyrights.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2453_227_70_T48_6095539115.dita#Section_2453_227_70_T48_6095539115">2453.227-70 Form HUD-770, Report of Inventions and Subcontracts.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2453_242_T48_6095539116.dita#Section_2453_242_T48_6095539116">2453.242 Contract administration.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2453_246_T48_6095539117.dita#Section_2453_246_T48_6095539117">2453.246 Quality Assurance.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

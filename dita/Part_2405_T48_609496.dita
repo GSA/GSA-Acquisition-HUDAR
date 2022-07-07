@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_2405_T48_609496">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 2405</ph> - PUBLICIZING CONTRACT ACTIONS</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           40 U.S.C. 486(c); 41 U.S.C. 253; 42 U.S.C. 3535(d); and FAR class deviation approved November 15, 1990. 
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2405_2_T48_6094961.dita#Subpart_2405_2_T48_6094961">Subpart 2405.2 - Synopses of Proposed Contract Actions</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2405_202_T48_609496111.dita#Section_2405_202_T48_609496111">2405.202 Exceptions.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2405_5_T48_6094962.dita#Subpart_2405_5_T48_6094962">Subpart 2405.5 - Paid Advertisements</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2405_502_T48_609496211.dita#Section_2405_502_T48_609496211">2405.502 Authority.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>
